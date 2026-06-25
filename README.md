@@ -1,5 +1,2 @@
 # Semantic-Similarity-Analysis-Using-BERT-Based-Models
-Bu projede ekip arkadaşımla beraber NLP'de derin öğrenme yaklaşımını anime öneri sistemine çevirdik. 
-Geliştirdiğimiz bu proje, ICCAR 2026 mühendislik konferansında 42 puan alarak konferansta yayınlanmıştır. Bununla beraber projemiz en kısa zamanca Google Scholarda yayınlanacaktır.  Hem NLP'ye yeni bir yaklaşım getirdik hem de anime öneri sistemi geliştirdik. Bu sayede hem NLP'ye yeni bir yaklaşım kazandırdık hem de diğer öneri sistemlerinde olan cold-start problemini ortadan kaldırdık.
-Performans Metrikleri şunlardır:
-0.8120 NDCG ve 0.74 MAP
+In this project, our goal is to develop a recommendation system by introducing a different deep learning approach to natural language processing (NLP). In short, the project involves a system that uses SBERT to detect the user’s mood and recommend anime accordingly. It does this using the SBERT (Sentence-BERT) model and cosine similarity. It also utilizes the Transformer library, which is Python’s best library for this purpose.The performance metrics are as follows: 0.8120 NDCG and 0.74 MAP
